@@ -2,6 +2,6 @@
 
 to sync across devices
 
-## Attributions:
+## Attributions
 
 * [Justin Maller](http://www.justinmaller.com/wallpapers/)
